@@ -1,2 +1,2 @@
 # index
-for gui
+for gui command line purpose
